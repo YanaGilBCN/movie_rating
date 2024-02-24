@@ -11,7 +11,7 @@ This repository contains movie-related data pulled from IMDB, including details 
 
 1. **Number of 2018 Comedy Films:** How many 2018 films were categorized as a Comedy?
 
-2. **Highly Rated 2018 Films:** How many 2018 films got a score of 8.0 or higher? (Note that this will require joining the two datasets together)
+2. **Highly Rated 2018 Films:** How many 2018 films got a score of 8.0 or higher? 
 
 3. **Best Film of 2018:** What was the best film of 2018?
 
@@ -38,13 +38,13 @@ This repository contains movie-related data pulled from IMDB, including details 
 
 ### 1. Data Preparation and Exploration
 
-- **Importing Libraries:** Begin by importing necessary libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+- **Importing Libraries:** Import necessary libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
 - **Exploring Dataset:** Use Pandas to read the provided datasets and understand their structure. Ensure data consistency and identify any missing values.
 
 ### 2. Analyzing Comedy Films in 2018
 
-- **Counting Comedy Films:** Utilize the 'title_basics_2018.csv' dataset to identify and count all movies categorized as Comedy in 2018.
+- **Counting Comedy Films:** Use 'title_basics_2018.csv' dataset to identify and count all movies categorized as Comedy in 2018.
 
 - **Data Filtering:** Filter the dataset to isolate Comedy films and further analyze the occurrence of Comedy as a single genre or in combination with others.
 
