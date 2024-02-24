@@ -9,13 +9,13 @@ This repository contains movie-related data pulled from IMDB, including details 
 
 ## Questions
 
-1. **Number of 2018 Comedy Films:** According to the provided dataset, how many 2018 films were categorized as a Comedy?
+1. **Number of 2018 Comedy Films:** How many 2018 films were categorized as a Comedy?
 
-2. **Highly Rated 2018 Films:** According to the provided dataset, how many 2018 films got a score of 8.0 or higher? (Note that this will require joining the two datasets together)
+2. **Highly Rated 2018 Films:** How many 2018 films got a score of 8.0 or higher? (Note that this will require joining the two datasets together)
 
 3. **Best Film of 2018:** What was the best film of 2018?
 
-4. **Audience Preference:** Do audiences prefer longer films, or shorter films? You may choose to simply outline your methodology to approach this problem.
+4. **Audience Preference:** Do audiences prefer longer films, or shorter films? Outline your methodology instead of writing the code.
 
 ## Dataset Details
 
