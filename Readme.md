@@ -73,5 +73,3 @@ This repository contains movie-related data pulled from IMDB, including details 
 ## Summary
 
 This methodology outlines a structured approach to analyze film data, focusing on Comedy films in 2018, identifying highly rated films, and evaluating audience preference based on film length.
-
-# movie_rating
